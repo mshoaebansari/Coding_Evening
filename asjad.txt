@@ -1,1 +1,7 @@
 I have edit the file
+<<<<<<< HEAD
+My name asjad
+The file name code evening
+=======
+I have edited the asjad file
+>>>>>>> 578e5b1a4b21163d0b730f0fd9375f7b813beab5
